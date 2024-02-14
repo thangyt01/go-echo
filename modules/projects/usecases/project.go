@@ -3,12 +3,12 @@ package usecases
 import (
 	"context"
 
-	"github.com/dzungtran/echo-rest-api/modules/projects/domains"
-	"github.com/dzungtran/echo-rest-api/modules/projects/dto"
-	"github.com/dzungtran/echo-rest-api/modules/projects/pkg/cue"
-	"github.com/dzungtran/echo-rest-api/modules/projects/repositories"
-	"github.com/dzungtran/echo-rest-api/pkg/contexts"
-	"github.com/dzungtran/echo-rest-api/pkg/utils"
+	"github.com/thangyt01/go-echo/modules/projects/domains"
+	"github.com/thangyt01/go-echo/modules/projects/dto"
+	"github.com/thangyt01/go-echo/modules/projects/pkg/cue"
+	"github.com/thangyt01/go-echo/modules/projects/repositories"
+	"github.com/thangyt01/go-echo/pkg/contexts"
+	"github.com/thangyt01/go-echo/pkg/utils"
 	"github.com/jinzhu/copier"
 )
 

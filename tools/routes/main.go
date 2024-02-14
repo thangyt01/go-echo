@@ -5,10 +5,10 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/dzungtran/echo-rest-api/cmd/api/di"
-	"github.com/dzungtran/echo-rest-api/config"
-	"github.com/dzungtran/echo-rest-api/infrastructure/datastore"
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
+	"github.com/thangyt01/go-echo/cmd/api/di"
+	"github.com/thangyt01/go-echo/config"
+	"github.com/thangyt01/go-echo/infrastructure/datastore"
+	"github.com/thangyt01/go-echo/pkg/logger"
 	"github.com/labstack/echo/v4"
 )
 
