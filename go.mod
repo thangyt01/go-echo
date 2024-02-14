@@ -3,7 +3,7 @@ module github.com/dzungtran/echo-rest-api
 go 1.21
 
 require (
-	cuelang.org/go v0.7.0
+	cuelang.org/go v0.7.1
 	firebase.google.com/go/v4 v4.13.0
 	github.com/DATA-DOG/go-sqlmock v1.5.1
 	github.com/Masterminds/squirrel v1.5.4
