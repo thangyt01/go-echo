@@ -3,7 +3,7 @@ package datastore
 import (
 	"time"
 
-	"github.com/dzungtran/echo-rest-api/pkg/logger"
+	"github.com/thangyt01/go-echo/pkg/logger"
 	_ "github.com/jackc/pgx/v4/stdlib"
 	"github.com/jmoiron/sqlx"
 )
