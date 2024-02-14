@@ -15,8 +15,8 @@ cloud.google.com/go/storage v1.30.1 h1:uOdMxAs8HExqBlnLtnQyP0YkvbiDpdGShGKtx6U/o
 cloud.google.com/go/storage v1.30.1/go.mod h1:NfxhC0UJE1aXSx7CIIbCf7y9HKT7BiccwkR7+P7gN8E=
 cuelabs.dev/go/oci/ociregistry v0.0.0-20231103182354-93e78c079a13 h1:zkiIe8AxZ/kDjqQN+mDKc5BxoVJOqioSdqApjc+eB1I=
 cuelabs.dev/go/oci/ociregistry v0.0.0-20231103182354-93e78c079a13/go.mod h1:XGKYSMtsJWfqQYPwq51ZygxAPqpEUj/9bdg16iDPTAA=
-cuelang.org/go v0.7.0 h1:gMztinxuKfJwMIxtboFsNc6s8AxwJGgsJV+3CuLffHI=
-cuelang.org/go v0.7.0/go.mod h1:ix+3dM/bSpdG9xg6qpCgnJnpeLtciZu+O/rDbywoMII=
+cuelang.org/go v0.7.1 h1:wSuUSIKR9M1yrph57l8EJATWVRWHaq/Zd0dFUL10PC8=
+cuelang.org/go v0.7.1/go.mod h1:ix+3dM/bSpdG9xg6qpCgnJnpeLtciZu+O/rDbywoMII=
 firebase.google.com/go/v4 v4.13.0 h1:meFz9nvDNh/FDyrEykoAzSfComcQbmnQSjoHrePRqeI=
 firebase.google.com/go/v4 v4.13.0/go.mod h1:e1/gaR6EnbQfsmTnAMx1hnz+ninJIrrr/RAh59Tpfn8=
 github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 h1:L/gRVlceqvL25UVaW/CKtUDjefjrs0SPonmDGUVOYP0=
